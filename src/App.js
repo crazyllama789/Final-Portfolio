@@ -7,7 +7,7 @@ function App() {
           <u>Final Portfolio</u>
         </h1>
         <h5> <u>Theme:</u> Finding problems within companies and fixing them </h5>
-        <div>
+        <div style={{}}>
         <a  
         class="hover12" href="https://crazyllama789.github.io/personas_and_storyboards/">
         <img style={{marginTop:'5em'}} src={require('./storyboard.png')}  alt="storyboard website" width="500" height="500"/>
@@ -78,7 +78,7 @@ function App() {
         </li>
         </ul>
         <a class="hover12" href="https://exhaustedpanda557.github.io/iterativeDesign/">
-        <img style={{marginTop:'6em'}}src={require('./yhangy.png')} alt="done jose website"  width="500" height="500" />  
+        <img style={{marginTop:'8em'}}src={require('./yhangy.png')} alt="done jose website"  width="500" height="500" />  
         </a>
         </div>
 
@@ -104,7 +104,7 @@ function App() {
         </li>
         </ul>
         <a class="hover12" href="https://crazyllama789.github.io/Development/">
-        <img style={{marginTop:'4em'}}src={require('./zoo.png')} alt="we bought a zoo website"  width="500" height="500" />  
+        <img style={{marginTop:'6em'}}src={require('./zoo.png')} alt="we bought a zoo website"  width="500" height="500" />  
         </a>
         </div>
     </div>
