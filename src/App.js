@@ -7,8 +7,8 @@ function App() {
           <u>Final Portfolio</u>
         </h1>
         <h5> <u>Theme:</u> Finding problems within companies and fixing them </h5>
-        <div style={{marginTop:0}}>
-        <a style={{paddingRight:"1.5em"}} 
+        <div>
+        <a  
         class="hover12" href="https://crazyllama789.github.io/personas_and_storyboards/">
         <img style={{marginTop:'5em'}} src={require('./storyboard.png')}  alt="storyboard website" width="500" height="500"/>
         </a>
@@ -32,8 +32,8 @@ function App() {
         </li>
         </ul>
         </div>
-        <div  style={{textAlign:'center', margin:'1em'}}>
-        
+
+        <div>
         <ul  style={{paddingLeft:'2em', float:'left', inlineSize:'45%', fontSize:'0.9em', textAlign:'left',
       paddingTop:'0', marginTop:'0'}}> <p class="border">Re-Design of Don Jose Tequila's Website</p>
         <li style={{paddingLeft: "2em", fontFamily:'Bree Serif', fontSize:'0.5em', textAlign:'left'}}>
