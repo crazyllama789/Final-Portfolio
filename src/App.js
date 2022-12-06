@@ -86,7 +86,7 @@ function App() {
         <ul  style={{textAlign:'center', paddingLeft:'2em', float:'left', inlineSize:'45%', fontSize:'0.9em', textAlign:'left',
       paddingTop:'0', marginTop:'0'}}> <p class="border">Zoo Animal Shopping cart</p>
         <li style={{paddingLeft: "2em", fontFamily:'Bree Serif', fontSize:'0.5em', textAlign:'left'}}>
-        <u>Context:</u> there was no place public place that existed to purchase exotic animals for zoos. So, in order 
+        <u>Context:</u> there was no public place that existed to purchase exotic animals for zoos. So, in order 
         to help zookeepers I designed a website to sort and filter through specific animals and allow zookeepers to purchase them.  
         </li>
         <li style={{paddingLeft: "2em", fontFamily:'Bree Serif', fontSize:'0.5em', textAlign:'left', paddingTop:"1em"}}>
