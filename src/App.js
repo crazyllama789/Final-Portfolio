@@ -7,13 +7,12 @@ function App() {
           <u>Final Portfolio</u>
         </h1>
         <h5> <u>Theme:</u> Finding problems within companies and fixing them </h5>
-        <div>
         <div style={{marginTop:0}}>
         <a style={{paddingRight:"1.5em"}} 
         class="hover12" href="https://crazyllama789.github.io/personas_and_storyboards/">
         <img style={{marginTop:'5em'}} src={require('./storyboard.png')}  alt="storyboard website" width="500" height="500"/>
         </a>
-        <ul style={{paddingLeft:'3em', float:'left', inlineSize:'45%', fontSize:'0.9em', textAlign:'left',
+        <ul  style={{paddingLeft:'3em', float:'left', inlineSize:'45%', fontSize:'0.9em', textAlign:'left',
       }}> <p class="border">Observation of WholeFoods Self-Checkout</p>
         <li style={{paddingLeft: "2em", fontFamily:'Bree Serif', fontSize:'0.5em', textAlign:'left'}}>
           <u>Context:</u> this website brings awareness to the issues revolving around the WholeFoods self-checkout machines, and I provide
@@ -30,13 +29,14 @@ function App() {
         <li style={{paddingLeft: "2em", fontFamily:'Bree Serif', fontSize:'0.5em', textAlign:'left', paddingTop:"1em"}}>
         <u>Conclusion:</u> I learned the importance of creating a narrative when designing interfaces, and how important it to make the 
           interface clear, so it is easy for users to use in the intended way. 
-        </li> 
+        </li>
         </ul>
         </div>
         <div  style={{textAlign:'center', margin:'1em'}}>
+        
         <ul  style={{paddingLeft:'2em', float:'left', inlineSize:'45%', fontSize:'0.9em', textAlign:'left',
       paddingTop:'0', marginTop:'0'}}> <p class="border">Re-Design of Don Jose Tequila's Website</p>
-        <li style={{paddingLeft: "2em", fontFamily:'Bree Serif', fontSize:'0.5em', textAlign:'left'}}>i
+        <li style={{paddingLeft: "2em", fontFamily:'Bree Serif', fontSize:'0.5em', textAlign:'left'}}>
         <u>Context:</u> the old Don Jose Tequilas website was confusing and challenging to navigate. It also 
         lacked accessiblility, so I created an improved version that improved customer experience and increased clarity. 
         </li>
@@ -57,7 +57,6 @@ function App() {
         <a class="hover12" href="https://crazyllama789.github.io/responsive_design/homepage.html#">
         <img style={{marginTop:'5em'}}src={require('./don_jose.png')} alt="done jose website"  width="500" height="500" />  
         </a>
-        </div>
         </div>
         <div  style={{textAlign:'center', margin:'1em'}}>
         <ul  style={{paddingLeft:'2em', float:'left', inlineSize:'45%', fontSize:'0.9em', textAlign:'left',
